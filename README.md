@@ -13,7 +13,7 @@ Fork this repository to your own github account by clicking the clone button on 
 
 Clone this repository onto a local directory by running this following command:
 ```
-git clone https://github.com/<YOUR GITHUB USERNAME>/mmtf-hackathon-2018.git
+git clone https://github.com/<YOUR GITHUB USERNAME>/hackathon-2019.git
 ```
 
 ### Upload your project to your forked github repository
