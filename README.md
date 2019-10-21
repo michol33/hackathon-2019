@@ -7,7 +7,7 @@ Hackathon projects repository for SBU Workshop 2019
 ### Fork repository
 Fork this repository to your own github account by clicking the clone button on the top.
 
-![Fork Repo](./figures/fork_repo.png)
+![Fork Repo](./screenshots/fork_repo.png)
 
 ### Clone repository
 
